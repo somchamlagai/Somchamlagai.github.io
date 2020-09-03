@@ -2,47 +2,35 @@
   "basics": {
     "name": "Som Chamlagai",
     "label": "Student",
-    "picture": "https://somchamlagai.github.io/template/images/molly.png",
+    "picture": "https://somchamlagai.github.io/template/images/image.jpg",
     "email": "schamlagai01@aurora.edu",
     "phone": "630-286-3016",
     "website": "https://somchamlagai.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying Computer Science at Aurora University. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "Aurora, Il",
+      "postalCode": "60506",
+      "city": "Aurora",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "Somchamlagai",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Somchamlagai",
+        "url": "http://linkedin.com/in/Somchamlagai"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Computer Information Systems",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
